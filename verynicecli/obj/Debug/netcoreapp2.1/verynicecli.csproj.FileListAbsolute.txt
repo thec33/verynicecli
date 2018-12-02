@@ -1,0 +1,11 @@
+C:\Users\Matth\Main\Coding\verynicecli\bin\Debug\netcoreapp2.1\verynicecli.deps.json
+C:\Users\Matth\Main\Coding\verynicecli\bin\Debug\netcoreapp2.1\verynicecli.runtimeconfig.json
+C:\Users\Matth\Main\Coding\verynicecli\bin\Debug\netcoreapp2.1\verynicecli.runtimeconfig.dev.json
+C:\Users\Matth\Main\Coding\verynicecli\bin\Debug\netcoreapp2.1\verynicecli.dll
+C:\Users\Matth\Main\Coding\verynicecli\bin\Debug\netcoreapp2.1\verynicecli.pdb
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.csprojAssemblyReference.cache
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.AssemblyInfoInputs.cache
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.AssemblyInfo.cs
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.dll
+C:\Users\Matth\Main\Coding\verynicecli\obj\Debug\netcoreapp2.1\verynicecli.pdb
